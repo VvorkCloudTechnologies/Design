@@ -1,0 +1,9 @@
+{
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.proseWrap": "always",
+    "prettier.requireConfig": true,
+    "prettier.parser": "flow",
+    "prettier.trailingComma": "all",
+    "prettier.arrowParens": "always"
+}

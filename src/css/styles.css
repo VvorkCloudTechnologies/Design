@@ -1,0 +1,4 @@
+@import "./Design.scss";
+body{
+  background-image:linear-gradient(to right,aqua,rgb(0, 119, 119),rgb(0, 59, 59))
+}
